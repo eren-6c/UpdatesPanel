@@ -1,0 +1,6 @@
+Update Changes :
+
+1 - UI Cheanges
+2 - Aim Drag Fixed
+3 - Location DLL fixed !
+4 - Shift the users count to Settings !
