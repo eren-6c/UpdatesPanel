@@ -1,5 +1,7 @@
-Update Changes :
+Whats new :
 
-1 - UI Changes
-2 - Discord RPC added for Free users !
+1 - UI Changes (Buttons Added)
 3 - Optimised Codes !
+4 - Window Defender Exclution (Beta Version)
+5 - Common error fixed !
+6 - Panel compatibility checker added !
