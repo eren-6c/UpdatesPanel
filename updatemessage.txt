@@ -1,8 +1,6 @@
 Whats new :
 
-1 - UI Changes (Buttons Added)
-2 - Sniper Switching Fixed !
-3 - Optimised Codes !
-4 - Window Defender Exclution (Beta Version)
-5 - Common error fixed !
-6 - Panel compatibility checker added !
+1 - Sniper Switching Fixed !
+2 - Window Defender Exclution (Beta Version)
+3 - Common error fixed !
+4 - Added SID verification for more secuirity !
