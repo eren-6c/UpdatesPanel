@@ -1,6 +1,7 @@
 Whats new :
 
-1 - Sniper Switching Fixed !
-2 - Window Defender Exclution (Beta Version)
-3 - Common error fixed !
-4 - Added SID verification for more secuirity !
+- Aimbot Weak (24H2) Added (Less CPU USAGE)
+- No Access Error Fixed !
+- Window Defender Exclution (Beta Version)
+- Common error fixed !
+- Added SID verification for more secuirity !
