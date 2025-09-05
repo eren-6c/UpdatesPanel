@@ -1,7 +1,7 @@
-Whats new :
+Whats new in Version 2.7 :
 
-- Aimbot Weak (24H2) Added (Less CPU USAGE)
+- Added Sniper Scope V2 (Testing)
 - No Access Error Fixed !
-- Window Defender Exclution (Beta Version)
 - Common error fixed !
-- Added SID verification for more secuirity !
+- Added encryption to DataBase link just for (@🔒)
+- Added Problems Fixing menu ! (Common Proble)
