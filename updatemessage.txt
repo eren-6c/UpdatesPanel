@@ -1,7 +1,11 @@
-Whats new in Version 2.7 :
+Whats new in Version 2.8 :
 
+- Some Changes
 - Added Sniper Scope V2 (Testing)
 - No Access Error Fixed !
 - Common error fixed !
-- Added encryption to DataBase link just for (@🔒)
+- Aimbot Weak Added !
+- Encyption in AOB Patterns !
+- Sniper Scope Added !
+- Added encryption to DataBase link just for (@🔒 (Usman))
 - Added Problems Fixing menu ! (Common Proble)
