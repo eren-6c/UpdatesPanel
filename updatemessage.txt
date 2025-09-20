@@ -1,5 +1,7 @@
-Whats new in Version 2.9 :
+Whats new in Version 3.1 :
 
+- Added Aimbot On/Off in Game !
+- Fixed Aimbot glitches !
 - Added Aimbot V3 (Auto-Off Fixed)
 - UI Changes
 - Added Sniper Scope V2 (Testing)
