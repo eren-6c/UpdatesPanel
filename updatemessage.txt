@@ -1,5 +1,7 @@
-Whats new in Version 3.1 :
+Whats new in Version 3.2 :
 
+- Added some basic brutal functions (etc Speed) !
+- Aimbot power increased more scan now !
 - Added Aimbot On/Off in Game !
 - Fixed Aimbot glitches !
 - Added Aimbot V3 (Auto-Off Fixed)
@@ -10,5 +12,4 @@ Whats new in Version 3.1 :
 - Aimbot Weak Added !
 - Encyption in AOB Patterns !
 - Sniper Scope Added !
-- Added encryption to DataBase link just for (@🔒 (Usman))
 - Added Problems Fixing menu ! (Common Problem Fixed)
