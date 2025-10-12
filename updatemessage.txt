@@ -1,5 +1,6 @@
-Whats new in Version 3.2 :
+Whats new in Version 3.3 :
 
+- Added Freeze, Ghost and tele Hack !
 - Added some basic brutal functions (etc Speed) !
 - Aimbot power increased more scan now !
 - Added Aimbot On/Off in Game !
