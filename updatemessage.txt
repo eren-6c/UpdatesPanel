@@ -1,5 +1,6 @@
-Whats new in Version 3.4 :
+Whats new in Version 3.5 :
 
+- OB50 Compatible !
 - UI Changes
 - Added Freeze, Ghost and tele Hack !
 - Added some basic brutal functions (etc Speed) !
