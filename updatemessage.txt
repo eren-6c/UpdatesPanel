@@ -1,6 +1,8 @@
-Whats new in Version 3.5 :
+Whats new in Version 3.6 :
 
-- OB50 Compatible !
+- Compatible for our FF APKs that we provided in group !
+- Bypass Added ! Must apply anticheat too !
+- OB51 Compatible !
 - UI Changes
 - Added Freeze, Ghost and tele Hack !
 - Added some basic brutal functions (etc Speed) !
