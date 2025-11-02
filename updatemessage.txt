@@ -1,4 +1,4 @@
-Whats new in Version 3.6 :
+Whats new in Version 3.5.1 :
 
 - Compatible for our FF APKs that we provided in group !
 - Bypass Added ! Must apply anticheat too !
