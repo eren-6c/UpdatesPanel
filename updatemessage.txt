@@ -1,7 +1,8 @@
-Whats new in Version 3.5.2 :
+Whats new in Version 3.6 :
 
 - Compatible for our FF APKs that we provided in group !
-- Bypass Added ! Must apply anticheat too !
+- Sniper Switching Fixed !
+- Bypass Fixed ! Must apply anticheat too !
 - OB51 Compatible !
 - UI Changes
 - Added Freeze, Ghost and tele Hack !
