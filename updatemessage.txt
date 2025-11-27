@@ -1,5 +1,6 @@
-Whats new in Version 3.6 :
+Whats new in Version 3.7 :
 
+- Now you can submit issue and bugs !
 - Compatible for our FF APKs that we provided in group !
 - Sniper Switching Fixed !
 - Bypass Fixed ! Must apply anticheat too !
