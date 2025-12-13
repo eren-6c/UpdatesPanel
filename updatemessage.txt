@@ -1,21 +1,3 @@
-Whats new in Version 3.7 :
+Whats new in Version 3.8 :
 
-- Now you can submit issue and bugs !
-- Compatible for our FF APKs that we provided in group !
-- Sniper Switching Fixed !
-- Bypass Fixed ! Must apply anticheat too !
-- OB51 Compatible !
-- UI Changes
-- Added Freeze, Ghost and tele Hack !
-- Added some basic brutal functions (etc Speed) !
-- Aimbot power increased more scan now !
-- Added Aimbot On/Off in Game !
-- Fixed Aimbot glitches !
-- Added Aimbot V3 (Auto-Off Fixed)
-- Added Sniper Scope V2 (Testing)
-- No Access Error Fixed !
-- Common error fixed !
-- Aimbot Weak Added !
-- Encyption in AOB Patterns !
-- Sniper Scope Added !
-- Added Problems Fixing menu ! (Common Problem Fixed)
+- ESP Hidden Fixed !
