@@ -1,5 +1,4 @@
-Whats new in Version 3.9 :
+Whats new in Version 4.1 :
 
-- ESP Hidden Fixed !
 - UI Fixes !
-- Ads Implemention !
+- Improved Ads Implemention !
