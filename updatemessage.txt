@@ -1,4 +1,5 @@
-Whats new in Version 4.1 :
-
-- UI Fixes !
+- UI Fix !
 - Improved Ads Implemention !
+- Updated Aimbot !
+- More Secuirity !
+- Optimised Codes !
