@@ -1,4 +1,6 @@
-- UI Fix !
+
+- Aim V4 Added - Test First
+- UI Fixes !
 - Improved Ads Implemention !
 - Updated Aimbot !
 - More Secuirity !
