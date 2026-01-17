@@ -1,7 +1,7 @@
-
+- Update OB52 compatible !
+- UI Changes !
+- Cracker Detected issue resolved !
 - Aim V4 Added - Test First
-- UI Fixes !
-- Improved Ads Implemention !
 - Updated Aimbot !
 - More Secuirity !
 - Optimised Codes !
