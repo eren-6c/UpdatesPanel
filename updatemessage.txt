@@ -1,8 +1,8 @@
+- Added 4 Aimbots !
+- Added more Features in others Section !
 - Added Advance ESP !
 - Update OB52 compatible !
 - UI Changes !
 - Cracker Detected issue resolved !
-- Aim V4 Added - Test First
-- Updated Aimbot !
 - More Secuirity !
 - Optimised Codes !
