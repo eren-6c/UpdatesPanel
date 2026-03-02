@@ -1,8 +1,5 @@
-- Added 4 Aimbots !
-- Added more Features in others Section !
-- Added Advance ESP !
-- Update OB52 compatible !
-- UI Changes !
-- Cracker Detected issue resolved !
-- More Secuirity !
-- Optimised Codes !
+Updated the Sniper Switching !
+Updated the Login system !
+Minor UI Changes !
+Secuirity Fixes !
+Message area updated !
