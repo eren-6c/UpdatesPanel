@@ -1,5 +1,2 @@
-Updated the Sniper Switching !
-Updated the Login system !
-Minor UI Changes !
-Secuirity Fixes !
-Message area updated !
+Aimbot Externo Updated !
+Ui-Changes !
