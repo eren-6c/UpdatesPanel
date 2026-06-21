@@ -1,3 +1,16 @@
-Aimbot Externo Updated !
-Added Aimbot Drag L and R !
-Ui-Changes !
+Aimbot Ai Added !
+Sniper Ai Added.
+Unlimited Skyler Skill !
+No Recoil Added
+UI Modification !
+Sniper Switching.
+ESP LINE
+ESP BOX
+ESP INFO
+ESP SKELETON
+ENEMY COUNTER
+ESP LEVEL
+ESP RANK
+LOOT ESP
+ESP WEAPON
+ESP HEALTH
