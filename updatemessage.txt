@@ -4,3 +4,7 @@ Added ESP MiniMap.
 Added Curved Esp Lines.
 Added ESP Fill Box.
 All Function Restored.
+Female Fix Added !
+Camera Left and Glitch Fire Updated !
+M82B,AWM and AWM-Y Fast Switch Added !
+Emulator Connecting Advanced. (Can Connect to Other Ports than 5555).
