@@ -1,16 +1,6 @@
-Aimbot Ai Added !
-Sniper Ai Added.
-Unlimited Skyler Skill !
-No Recoil Added
-UI Modification !
-Sniper Switching.
-ESP LINE
-ESP BOX
-ESP INFO
-ESP SKELETON
-ENEMY COUNTER
-ESP LEVEL
-ESP RANK
-LOOT ESP
-ESP WEAPON
-ESP HEALTH
+OB54 Compatible !
+Added SpinBot.
+Added ESP MiniMap.
+Added Curved Esp Lines.
+Added ESP Fill Box.
+All Function Restored.
