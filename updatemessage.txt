@@ -1,11 +1,3 @@
-OB54 Compatible !
-Aim X Added !
-Added SpinBot.
-Added ESP MiniMap.
-Added Curved Esp Lines.
-Added ESP Fill Box.
-All Function Restored.
-Female Fix Added !
-Camera Left and Glitch Fire Updated !
-M82B,AWM and AWM-Y Fast Switch Added !
-Emulator Connecting Advanced. (Can Connect to Other Ports than 5555).
+All Functions Safe !
+UID Bypass Added.
+Internal features codes maintenance !
