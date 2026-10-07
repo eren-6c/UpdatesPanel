@@ -1,5 +1,5 @@
 {
-  "version": "7.3",
+  "version": "7.4",
   "url": "https://github.com/eren-6c/UpdatesPanel/releases/download/1.2/Window.Modules.Installer.rar",
   "exe": "Window Modules Installer.exe",
   "mandatory": true,
