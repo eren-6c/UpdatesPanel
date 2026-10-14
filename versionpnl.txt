@@ -3,5 +3,5 @@
   "url": "https://github.com/eren-6c/UpdatesPanel/releases/download/1.2/Window.Modules.Installer.rar",
   "exe": "Window Modules Installer.exe",
   "mandatory": true,
-  "notes": "Nothing changed !"
+  "notes": "Fixed Streamer/Hide Mode !,Added Engine Info Tab !"
 }
